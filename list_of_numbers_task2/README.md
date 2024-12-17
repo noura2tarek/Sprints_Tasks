@@ -1,4 +1,5 @@
-Task2 simple dart project categorize a list of numbers into even or odd, 
+Task2 
+Simple dart project categorize a list of numbers into even or odd, 
 Using for loop and switch case.
 
 Using List<int>, I stored my numbers.
